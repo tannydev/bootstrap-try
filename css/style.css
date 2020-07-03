@@ -1,0 +1,127 @@
+.navbar a{
+	font-size: 25px;
+	font-weight: 700;
+}
+.logo{
+	background-color:#2d2b2b;
+}
+
+.banner-section{
+	background-color:#44caa2;
+	
+	padding: 100px 0;
+	
+}
+.pic{
+	text-align: center; 
+}
+.col-md-12 img{
+	max-width: 20%;
+	height: auto;
+	
+}
+.col-md-12 h1{
+	font-size: 70px;
+	font-weight: 700;
+	color: #fff;
+}
+.col-md-12 h4{
+	font-size: 25px;
+	font-weight: 600;
+	color: #fff;
+}
+.nav-link:hover{
+     color: #44caa2!important;
+
+}
+.text h1{
+	text-align: center;
+	font-size: 60px;
+	padding-top: 100px;
+	color: #2c3e50;
+	font-weight: 700;
+}
+
+img{
+	width: 100%;
+	height: auto;
+	padding: 20px 10px;
+	box-sizing: border-box;
+}
+img:hover{
+     color: #44caa2!important;
+
+}
+.about-section{
+	background-color:#44caa2;
+	height: 550px;
+	margin-top: 100px;
+}
+
+.text h2{
+	text-align: center;
+	font-size: 60px;
+	padding-top: 100px;
+	color: #fff;
+	font-weight: 700;
+}
+.passege h3{
+	text-align: left;
+	font-size: 20px;
+	color: #fff;
+	padding: 50px 25px;
+	font-weight: normal;
+	line-height: 1.5;
+}
+.click{
+    margin: auto;
+}
+.click a{
+	font-size: 25px;
+	color: #fff;
+	text-decoration: none;
+	padding: 20px 30px;
+	font-weight: 400;
+	border-radius: 15px;
+	 border: 3px solid white;
+}
+.click a:hover{
+     color: #000!important;
+     background-color: #fff!important;
+}
+.text2 h2{
+	text-align: center;
+	font-size: 60px;
+	padding-top: 100px;
+	color:#2c3e50;
+	font-weight: 700;
+}
+.footer-section{
+	background-color:#2c3e50;
+	padding: 100px 0;
+	margin-top: 100px;
+	height: 300px;
+}
+.last-text{
+	text-align: center;
+}
+.last-text h4{
+	color: #fff;
+	font-size: 30px;
+}
+.last-text p{
+	color: #fff;
+	font-size: 20px;
+}
+.last-section{
+	background-color:#2d2b2b;
+	height: 70px;
+
+}
+.last h5{
+	text-align: center;
+	color: #fff;
+	font-size: 15px;
+    padding-top: 20px;
+
+}
