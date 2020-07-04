@@ -8,7 +8,7 @@
 
 .banner-section{
 	background-color:#44caa2;
-	
+	background-attachment: fixed;
 	padding: 100px 0;
 	
 }
@@ -47,6 +47,7 @@ img{
 	height: auto;
 	padding: 20px 10px;
 	box-sizing: border-box;
+	border-radius: 20px;
 }
 img:hover{
      color: #44caa2!important;
@@ -56,6 +57,7 @@ img:hover{
 	background-color:#44caa2;
 	height: 550px;
 	margin-top: 100px;
+	background-attachment: fixed;
 }
 
 .text h2{
@@ -65,13 +67,23 @@ img:hover{
 	color: #fff;
 	font-weight: 700;
 }
-.passege h3{
+.passege1 p{
 	text-align: left;
 	font-size: 20px;
 	color: #fff;
 	padding: 50px 25px;
 	font-weight: normal;
 	line-height: 1.5;
+	margin-left: 50px;
+}
+.passege2 p{
+	text-align: left;
+	font-size: 20px;
+	color: #fff;
+	padding: 50px 25px;
+	font-weight: normal;
+	line-height: 1.5;
+	margin-right: 50px;
 }
 .click{
     margin: auto;
